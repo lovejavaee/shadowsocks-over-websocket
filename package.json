@@ -2,7 +2,9 @@
   "name": "shadowsocks-over-websocket",
   "version": "1.0.0",
   "engines": {
-    "node": "14.x"
+    "node": "14.x",
+    "npm": "6.x",
+    "yarn": "1.x"
   },
   "description": "A fast tunnel proxy that helps you bypass firewalls",
   "main": "tcprelay.js",
